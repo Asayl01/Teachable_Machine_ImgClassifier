@@ -29,5 +29,6 @@ After minor adjustments (like specifying the input image), the script was able t
 
 ```python
 !pip install tensorflow==2.12.1
+```
 
 
