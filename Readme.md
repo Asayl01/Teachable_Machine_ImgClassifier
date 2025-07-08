@@ -19,9 +19,11 @@ Google Colab is a free cloud-based platform by Google that allows users to write
 After training the model in Teachable Machine, I exported it in TensorFlow → Keras format, which provided two files:
 - keras_model.h5
 - labels.txt
-- 
-Then, I copied the sample Python code provided by Teachable Machine, and pasted it into a new Google Colab notebook.
-After minor adjustments (like specifying the input image), the script was able to classify test images based on the trained model.
+  
+Then, I copied the sample Python code provided by Teachable Machine and pasted it into a new Google Colab notebook. 
+After making minor adjustments, such as specifying the input images, the script successfully classified test images based on the trained model. 
+For testing, I used two images uploaded directly within the Google Colab environment.
+
 
 ### Issues Faced  
 - Error loading `keras_model.h5` in Google Colab — usually caused by TensorFlow version mismatch.  
