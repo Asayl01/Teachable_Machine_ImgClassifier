@@ -1,0 +1,4 @@
+0 Fixed-wing drones
+1 Fixed-wing VTOL drone
+2 multi-rotor drones
+3 Single-rotor helicopter drones
