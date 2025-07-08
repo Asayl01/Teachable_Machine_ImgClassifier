@@ -31,9 +31,7 @@ After minor adjustments (like specifying the input image), the script was able t
 !pip install tensorflow==2.12.1
 ```
 ## Output Screenshots
-Multi Rotor Classification Result:
-![Multi Rotor Output](Photo1.png)
+![Multi Rotor Output](output1.jpt)
 
-Single Rotor Classification Result:
-![Single Rotor Output](Single.jpg)
+![Single Rotor Output](output2.jpg)
 
