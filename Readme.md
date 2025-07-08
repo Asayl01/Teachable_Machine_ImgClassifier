@@ -10,3 +10,6 @@ This is a simple image classification project to recognize different types of dr
 
 ##  What is Teachable Machine?  
 [Teachable Machine](https://teachablemachine.withgoogle.com/) is a web-based tool by Google that lets you train machine learning models without writing any code.  
+
+### Tutorial Video  
+https://www.youtube.com/watch?v=kPzEzrc5TcI
